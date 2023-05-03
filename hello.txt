@@ -1,0 +1,11 @@
+package SmartIt.prj;
+import java.util.Scanner;
+public class MyAvg {
+public static void main(String[] args) {
+Scanner sc = new Scanner(System.in);
+int Sungjin = 0;
+for(int a=0; 0<=3000; a++) {
+System.out.println("메롱메롱");	
+  }
+ }
+}
